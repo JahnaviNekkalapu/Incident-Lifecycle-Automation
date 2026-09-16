@@ -25,15 +25,16 @@ The solution improves efficiency, SLA compliance, and service visibility by inte
 - SLA and Related Record Tracking.
 
  👥 Stakeholder Mapping
-________________________________________________________________________________________________________________________________________________
-| Stakeholder            | Role                        | Needs / Expectations                 | Impact of Automation                             |
-________________________________________________________________________________________________________________________________________________ |
-| End Users              | Report IT issues            | Quick resolution, visibility          | ✔ Faster resolution ✔ Transparent tracking     |
-| Service Desk Agents    | First-level support         | Easy logging, classification tools    | ✔ Standardized intake ✔ Faster escalation      |
-| Level 2 Support Teams  | Diagnose & resolve issues   | Complete incident data, related records | ✔ Better diagnosis ✔ Clear task ownership    |
-| Change Management Team | Handle emergency changes    | Structured change requests            | ✔ Integrated change control                     |
-|ServiceNow Admin       | Maintain configuration      | Scalable and trackable solution       | ✔ Controlled process management                  |
-__________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________
+| Stakeholder            | Role                        | Needs / Expectations                   | Impact of Automation                               |
+|-------------------------|-----------------------------|----------------------------------------|-------------------------------------------------  |
+| End Users              | Report IT issues            | Quick resolution, visibility            | ✔ Faster resolution ✔ Transparent tracking       |
+| Service Desk Agents    | First-level support         | Easy logging, classification tools      | ✔ Standardized intake ✔ Faster escalation        |
+| Level 2 Support Teams  | Diagnose & resolve issues   | Complete incident data, related records | ✔ Better diagnosis ✔ Clear task ownership        |
+| Change Management Team | Handle emergency changes    | Structured change requests              | ✔ Integrated change control                       |
+| ServiceNow Admin       | Maintain configuration      | Scalable and trackable solution         | ✔ Controlled process management                   |
+______________________________________________________________________________________________________________________________________________________
+
 
  🛤 Execution Roadmap
 1. **Incident Record Creation**
